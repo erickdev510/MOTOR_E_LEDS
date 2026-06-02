@@ -31,4 +31,4 @@ LEDs coloridos
 Resistores
 
 
-![imagem]()
+![imagem](https://github.com/erickdev510/MOTOR_E_LEDS/blob/main/MOTOR_e_LEDS.png)
